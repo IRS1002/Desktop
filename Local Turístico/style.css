@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+:root {
+    font-family: "Open Sans", sans-serif;
+}
+
+
+body {
+    background-color: black;
+}
+
+header {
+    color: #E1624F;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+header, h1 {
+    margin-bottom: 8px;
+}
+
+h1 {
+    margin-bottom: 44px;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+
+#page {
+    box-sizing: border-box;
+    width: 1280px;
+    height: 3279px;
+    background-color: white;
+    margin: auto;
+    padding: 80px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+
+.cidade-de-busan {
+    border-radius: 28px;
+}
+
+#Busan p {
+    margin-top: 24px;
+    font-size: 16px;
+    text-align: center;
+    font-style: italic;
+}
+
+.divisor1 {
+    margin-top: 40px;
+}
+
+#header2 {
+    margin-top: 64px;
+}
+
+h2 {
+    font-size: 32px;
+    margin-top: 2px;
+    font-weight: bold;
+}
+
+#destinos p {
+    margin-top: 8px;
+}
+
+.temploH {
+    margin-top: 64px;
+    border-radius: 28px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 28px;
+    margin-bottom: 4px;
+    font-weight: bold;
+}
+
+.temploB {
+    margin-top: 48px;
+    margin-bottom: 20px;
+    border-radius: 28px;
+}
+
+.parqueY {
+    margin-top: 48px;
+    margin-bottom: 20px;
+    border-radius: 28px;
+}
+
+.divisor2 {
+    padding: 40px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 99px;
+    margin-bottom: 48px;
+ 
+}
+
+footer img {
+    vertical-align: middle;
+}
+
+ul {
+    padding-left: 18px; 
+}
+
+.blue {
+    color: #0C51A7;
+}
+
+.blue::marker {
+    color: black;
+}
+
+.purple {
+    color: #591B98;
+}
+
+.purple::marker {
+    color: black;
+}
+
+.pink {
+    color: #E5245E;
+}
+
+.pink::marker {
+    color: black;
+}
+
+.orange  {
+    color: #E95E10;
+    
+}      
+
+.orange::marker {
+  color: black;
+}
+
+.lista {
+    font-weight: bold;
+}
